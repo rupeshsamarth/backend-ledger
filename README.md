@@ -54,7 +54,7 @@ Ledger Backend is a RESTful API designed to manage financial transactions, inclu
 ## ⚙️ Installation & Setup
 
 1. Clone the repository
-   git clone https://github.com/your-username/ledger-backend.git
+   git clonehttps://github.com/rupeshsamarth/backend-ledger.git
 
 2. Navigate to project folder
    cd ledger-backend
@@ -70,6 +70,11 @@ Ledger Backend is a RESTful API designed to manage financial transactions, inclu
    npm start
 
 ---
+
+## 🌐 Live API
+Base URL: https://backend-ledger-s6kq.onrender.com
+
+> Note: Server may take 30–40 seconds to start due to free hosting (Render).
 
 ## 📚 What I Learned
 
