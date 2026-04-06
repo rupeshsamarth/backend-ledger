@@ -1,4 +1,4 @@
-# 📒 Ledger Backend AP
+# 📒 Ledger Backend API
 
 ## 📌 Overview
 
